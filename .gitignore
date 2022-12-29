@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+ssl-localhost/localhost.crt
+ssl-localhost/localhost.key
+backend/spring-boot-ecommerce/src/main/resources/application.properties
+backend/spring-boot-ecommerce/src/main/resources/luv2code-keystore.p12
